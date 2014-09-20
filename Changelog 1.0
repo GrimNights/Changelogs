@@ -1,0 +1,27 @@
+************************************ 1.0 *********************************
+
+Updated: None
+
+Added: Initial Version
+
+Changed:
+
+		Technomancy removed old RF API per KL
+		Thuamic Exploration edited enchant ID's from 70's-90's
+		Mining Dim changed from 6 to 10
+		Mining biome 100
+		Mining Dim world height 120
+		Emerald Mod dim from 2 to 9
+		Emerald Mod furance from 120 to 100
+		Railcraft Anchor from 12 to 24 per ender pearl
+		Railcraft modules for IC2 and Forestry disabled
+		Immibis core changed to RF, /tps to /itps
+		Changed orgen to default with COFH Core
+
+Pulled:
+		Oreplus, needs massive config love before being put back in
+		Quarry Plus having a creative menu crash
+		Helper Villagers, Laggy
+		Lycanite mobs, super laggy
+		AOBD, what seems to be a conflict with Electrical Age
+		Lycraft, does work how we would like
